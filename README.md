@@ -28,6 +28,11 @@ Converted from the store finder. *Note:* this has a lot of third party panoramas
 ## ACT/Canberra
 Maps entirely within my glorious hometown.
 
+### [Australian Capital Territory Feature Names](https://www.geoguessr.com/maps/63a662ba587ddd13f67a3634)
+[Without parks/unit complexes](https://www.geoguessr.com/maps/63a6d8c2607e3e4aa659226e)
+
+Imported straight from https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::act-feature-names/about (which appears to no longer exist), data last updated 4 November 2022 and I guess it won't be again if it no longer exists. These are locations in the ACT that the government apparently thinks are interesting enough to deserve a name.
+
 ### [Canberra Centenary Trail](https://www.geoguessr.com/maps/666021fc7a64c94aed9996be)
 Generated points from the converted [official GPX file for the Canberra Centenary Trail](https://www.parks.act.gov.au/find-a-park/canberra-centenary-trail) (made into a polygon by buffering it by 20 metres).
 
