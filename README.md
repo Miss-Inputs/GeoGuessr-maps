@@ -1,7 +1,5 @@
 This has all the JSON files for my GeoGuessr maps, or at least all of them that I remember to put here. Much easier to keep track of, I just feel like the locations shouldn't be a secret, enables me to ramble more than GeoGuessr's description field for maps would allow…
 
-TODO: Should separate this into source and output (from MapCheckr or what have you (or ideally geoguessr-map-maker))
-
 TODO: Whoops I forgot to list all the maps
 
 # Australia
@@ -26,7 +24,7 @@ Other things where I converted existing data to locations.
 
 ### [Australia Post Locations](https://www.geoguessr.com/maps/63a670ce587ddd13f67a38c6)
 
-All the Australia Post offices in Australia from https://tiles.terria.io/static/auspost-locations.csv, which is just available on the National Map, and doesn't elaborate on where the data is from, and probably doesn't have the Christmas Island post office and things like that so maybe I should add in external territories manually.
+All the Australia Post offices in Australia from https://tiles.terria.io/static/auspost-locations.csv, which is just available on the National Map, and doesn't elaborate on where the data is from, and doesn't have external territories (I added two of them that have official coverage manually).
 
 ### [Maccas of Australia](https://www.geoguessr.com/maps/63fbbe61291e7ca01142f07f)
 
