@@ -26,6 +26,9 @@ Other things where I converted existing data to locations.
 
 All the Australia Post offices in Australia from https://tiles.terria.io/static/auspost-locations.csv, which is just available on the National Map, and doesn't elaborate on where the data is from, and doesn't have external territories (I added two of them that have official coverage manually).
 
+TODO: Version that does include third party coverage, since there's a few of those, but I would want to make sure it doesn't include panoramas inside random shops which happen to be the closest thing to the post office…
+TODO: Version without gen 1 coverage might also be nice
+
 ### [Maccas of Australia](https://www.geoguessr.com/maps/63fbbe61291e7ca01142f07f)
 
 Converted from the store finder. _Note:_ this has a lot of third party panoramas, a lot of which are a bit shite.
