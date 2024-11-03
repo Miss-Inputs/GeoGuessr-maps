@@ -62,3 +62,9 @@ The locations are on the bus stop and not the road in front of it, which with th
 ### [Gallipoli Peninsula](https://www.geoguessr.com/maps/6446e2a8a35ad1a02eec171d)
 
 A polygon map containing one region of the peninsula of Gallipoli/Gelibolu, Türkiye. Contains a lot of trekkers of memorials and cemeteries and things, naturally. This sounded like a funny bit at the time the last Anzac Day.
+
+### [Disputed Territories](https://www.geoguessr.com/maps/63e65287a029e9b998de764b)
+
+Polygon map converted from Natural Earth's disputed areas data.
+
+TODO: Version which takes out Israel/Taiwan/Sabah purely for the reason that they end up being selected too often.
