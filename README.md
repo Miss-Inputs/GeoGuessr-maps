@@ -18,6 +18,10 @@ Results of me loading a GTFS feed and getting locations for all the stops.
 
 Train, tram and bus stops from http://data.ptv.vic.gov.au/downloads/gtfs.zip, from folders 2, 3 and 4.
 
+### [NSW Transport Stops](https://www.geoguessr.com/maps/672864588a593cd5d6bd9bca)
+
+All the bus stops from https://opendata.transport.nsw.gov.au/data/dataset/timetables-complete-gtfs, which also includes random coach "stops" in the middle of nowhere… hrm.
+
 ## Other converted points
 
 Other things where I converted existing data to locations.
