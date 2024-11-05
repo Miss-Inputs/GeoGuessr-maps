@@ -20,7 +20,24 @@ Train, tram and bus stops from http://data.ptv.vic.gov.au/downloads/gtfs.zip, fr
 
 ### [NSW Transport Stops](https://www.geoguessr.com/maps/672864588a593cd5d6bd9bca)
 
-All the bus stops from https://opendata.transport.nsw.gov.au/data/dataset/timetables-complete-gtfs, minus "stops" that only have school bus services, which are for the most part random roads in the middle of nowhere and are not bus stops in the slightest.
+All the stops from https://opendata.transport.nsw.gov.au/data/dataset/timetables-complete-gtfs, minus "stops" that only have school bus services, which are for the most part random roads in the middle of nowhere and are not bus stops in the slightest.
+
+### [Transport Stops of Australia](https://www.geoguessr.com/maps/6728f9c9d123b52b5c1cec23)
+ALL the stops from:
+- Transport Canberra, Canberra Metro Operations (ACT): https://www.transport.act.gov.au/contact-us/information-for-developers
+- Every org in NSW: https://opendata.transport.nsw.gov.au/data/dataset/timetables-complete-gtfs, except for the school bus only stops as before
+- Armidale autonomous buses (NSW): https://opendata.transport.nsw.gov.au/data/dataset/autonomous-vehicles-gtfs-timetables/resource/5cc9f80a-df38-43b1-bd57-798c8927aed0 Is that even still a thing? Is it already in the NSW Complete feed anyway? Who knows
+- MetroTAS (TAS): https://www.metrotas.com.au/community/gtfs/
+- TransLink (QLD): https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-translink
+- TransPerth (WA): https://www.transperth.wa.gov.au/About/Spatial-Data-Access
+- Adelaide metro buses but I forgot where from
+- Darwin and Alice Springs buses (NT) but I forgot where from
+- Port Philip ferries (VIC) but I forgot where from
+- PTV (VIC): http://data.ptv.vic.gov.au/downloads/gtfs.zip
+
+Generated and panned to the stop automatically, so if you don't see a bus stop in front of you, blame the transport agency for misplacing the stop in the GTFS data compared to where it actually is (I am looking at you PTV), or blame the state government/LGA/whoever for being too lazy to put a sign there (I am looking at you, NSW and Tasmania).
+
+This pushes the limits of how many locations GeoGuessr will let you put in a handpicked map, so it was annoying to upload.
 
 ## Other converted points
 
