@@ -20,7 +20,7 @@ Train, tram and bus stops from http://data.ptv.vic.gov.au/downloads/gtfs.zip, fr
 
 ### [NSW Transport Stops](https://www.geoguessr.com/maps/672864588a593cd5d6bd9bca)
 
-All the bus stops from https://opendata.transport.nsw.gov.au/data/dataset/timetables-complete-gtfs, which also includes random coach "stops" in the middle of nowhere… hrm.
+All the bus stops from https://opendata.transport.nsw.gov.au/data/dataset/timetables-complete-gtfs, minus "stops" that only have school bus services, which are for the most part random roads in the middle of nowhere and are not bus stops in the slightest.
 
 ## Other converted points
 
