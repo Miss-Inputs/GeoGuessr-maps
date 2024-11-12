@@ -108,7 +108,7 @@ One of the smallest maps I will ever make. Just the trekkers inside/around the W
 # Other
 
 ### [MusicBrainz Places](https://www.geoguessr.com/maps/6411b65ecf2a0544ea0d704f)
-All the venues, recording studios, whatever else is added as a place (and has coordinates) to MusicBrainz, whenever I last imported them all from the API.
+Converted from the API, all the venues, recording studios, whatever else is added as a place (and has coordinates) to MusicBrainz. Dunno when I last updated the data, from the file modification date it would seem to be March 2023-ish.
 
 ### [Gallipoli Peninsula](https://www.geoguessr.com/maps/6446e2a8a35ad1a02eec171d)
 
