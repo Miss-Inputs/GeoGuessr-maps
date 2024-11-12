@@ -54,6 +54,10 @@ TODO: Version without gen 1 coverage might also be nice
 
 Converted from the store finder. Now without third party coverage, though maybe I should make a version that does include it, so you sometimes get silly photospheres on the inside of them… but eh.
 
+### [Where's that Zambrero?](https://www.geoguessr.com/maps/63fc80e8163859d3a41ff66f)
+
+Converted from the locations from the store finder (whenever it is I did that). Removed some locations that are "coming soon" because for our purposes, that just means there is not actually a Zambrero there. Hopefully no other locations are misplaced.
+
 ### [Public Toilet Locations of Australia](https://www.geoguessr.com/maps/63f782263345d08e8984c221)
 Converted from the government's [National Public Toilet Map](https://data.gov.au/dataset/ds-dga-553b3049-2b8b-46a2-95e6-640d7986a8c1/details). Probably does not have trekkers inside the actual toilet.
 
