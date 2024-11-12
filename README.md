@@ -1,7 +1,5 @@
 This has all the JSON files for my GeoGuessr maps, or at least all of them that I remember to put here. Much easier to keep track of, I just feel like the locations shouldn't be a secret, enables me to ramble more than GeoGuessr's description field for maps would allow…
 
-TODO: Whoops I forgot to list all the maps
-
 # Australia
 
 Maps all located in Australia, mostly converted from things.
@@ -9,6 +7,9 @@ Maps all located in Australia, mostly converted from things.
 ### [Prohibited Areas](https://www.geoguessr.com/maps/63fbc3e27317941effaf5d91)
 
 Polygon map converted from the Prohibited_Areas layer of [NM_Reserves from Geoscience Australia](https://services.ga.gov.au/gis/rest/services/NM_Reserves/MapServer). Mostly just because it sounds ominous and therefore funny. It's mostly just military bases I think, but not many of those have Street View coverage, funnily enough.
+
+### [Super Smash Bros. Tournament Venues of Australia](https://www.geoguessr.com/maps/6408d151f551fe4625684d39)
+An attempt to get indoor (where possible) and outdoor views of everywhere in Australia that SSB4/SSBU tournaments are held, including unofficial coverage if I have to, starting off with locations imported from start.gg, but I neglected it. Whoops.
 
 ## GTFS conversions
 
@@ -93,11 +94,28 @@ Generated from the Transport Canberra GTFS feed, this takes you through all of C
 
 The locations are on the bus stop and not the road in front of it, which with this scale of map, could be the difference between a 5K and not if you click the road instead.
 
+### [Australian Capital Territory w/o residential zones](https://www.geoguessr.com/maps/63fb171be94499a1da3d3d2c)
+
+Polygonal map where I attempted to make a Canberra map that avoids just being suburban areas. Used the zoning data from ACTmapi to find areas that are not in residential zones, or have something that is not a residential zone surrounding them. If you think that means it's just the middle of town centres and therefore should be trivial, think again…
+
+The file ended up being like 200MB so I can't upload it to this repository. TODO: Post the scriptthat generates this map, once I clean it up a bit (a lot)
+
+[Without national parks](https://www.geoguessr.com/maps/65d0dec8db7bd9b93b28270a): A variant that uses the "ACT DIVISIONS" data to exclude anywhere that is not assigned to a division/suburb, which means no endless Namadgi hell, for example.
+
+### [Australian War Memorial](https://www.geoguessr.com/maps/6447a0f19f7accd3e0a945c0)
+One of the smallest maps I will ever make. Just the trekkers inside/around the War Memorial and the road directly outside it.
+
 # Other
+
+### [MusicBrainz Places](https://www.geoguessr.com/maps/6411b65ecf2a0544ea0d704f)
+All the venues, recording studios, whatever else is added as a place (and has coordinates) to MusicBrainz, whenever I last imported them all from the API.
 
 ### [Gallipoli Peninsula](https://www.geoguessr.com/maps/6446e2a8a35ad1a02eec171d)
 
 A polygon map containing one region of the peninsula of Gallipoli/Gelibolu, Türkiye. Contains a lot of trekkers of memorials and cemeteries and things, naturally. This sounded like a funny bit at the time the last Anzac Day.
+
+### [Lesbos (Lesvos)](https://www.geoguessr.com/maps/644fe7f7a917719b5a62da9c)
+Polygon map of the island of Lesbos in Greece, where lesbians were invented. GeoGuessr censors the title. Since when is lesbos a swear word or slur or any of that? I'm always calling myself a lesbo. Oh well.
 
 ### [Disputed Territories](https://www.geoguessr.com/maps/63e65287a029e9b998de764b)
 
