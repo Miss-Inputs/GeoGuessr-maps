@@ -122,3 +122,8 @@ Polygon map of the island of Lesbos in Greece, where lesbians were invented. Geo
 Polygon map converted from Natural Earth's disputed areas data.
 
 TODO: Version which takes out Israel/Taiwan/Sabah purely for the reason that they end up being selected too often.
+
+### [Minor Islands](https://www.geoguessr.com/maps/6741eec96d68a18b54a71f74)
+
+Polygon map converted from [Natural Earth](https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-minor-islands/)'s Minor Islands data, which includes all the islands that are <= 2 km² in size, which is probably a great hint for people who have an actual sense of scale unlike me and can intuitively figure out how big that is. Unfortunately the borders are not exact enough so some water trekkers show up. Boooo!!!
+
