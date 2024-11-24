@@ -127,3 +127,13 @@ TODO: Version which takes out Israel/Taiwan/Sabah purely for the reason that the
 
 Polygon map converted from [Natural Earth](https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-minor-islands/)'s Minor Islands data, which includes all the islands that are <= 2 km² in size, which is probably a great hint for people who have an actual sense of scale unlike me and can intuitively figure out how big that is. Unfortunately the borders are not exact enough so some water trekkers show up. Boooo!!!
 
+### [Tourist Attractions (Wikidata)](https://www.geoguessr.com/maps/674234923437d0ed23a18f13)
+
+Converted points from the Wikidata query:
+```
+SELECT DISTINCT ?item ?geo ?itemLabel WHERE {
+  ?item (wdt:P31/(wdt:P279*)) wd:Q570116;
+    wdt:P625 ?geo SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],mul,en". }
+}
+```
+This returns all the tourist attractions in the world (that Wikidata knows about) (and has official coverage nearby).
