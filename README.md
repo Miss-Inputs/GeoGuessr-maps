@@ -137,3 +137,16 @@ SELECT DISTINCT ?item ?geo ?itemLabel WHERE {
 }
 ```
 This returns all the tourist attractions in the world (that Wikidata knows about) (and has official coverage nearby).
+
+Ends up being quite Italy-heavy. Do I make a version without Italy? Or do I figure out what it is about Italy that causes it to have so many tourist attractions, and do something else to rebalance it…
+
+### [Burger Restaurants](https://www.geoguessr.com/maps/67431b8d02138d6ea654559e)
+
+Explaining GeoGuessr to an American: So, imagine guessing a location that serves burgers…
+
+Converted points from querying Overpass Turbo for `cuisine=burger`. Expectedly very USA-heavy.
+
+TODO: Alternate version without chains (just anything with a `brand` property)
+TODO: Alternate version without the USA (maybe I should do that for every map)
+
+TODO: Compute country stats for all of the worldwide ones, state stats for the Australia ones, etc (might be better to put that on a spreadsheet because it'd be more readable that way)
