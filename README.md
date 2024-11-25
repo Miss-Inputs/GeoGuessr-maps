@@ -1,5 +1,7 @@
 This has all the JSON files for my GeoGuessr maps, or at least all of them that I remember to put here. Much easier to keep track of, I just feel like the locations shouldn't be a secret, enables me to ramble more than GeoGuessr's description field for maps would allow…
 
+[Distribution stats](https://docs.google.com/spreadsheets/d/1y5rDjgt1mHDUifivFd9mWOJ63U9kNy7SzLOUUtgwVj4/edit?usp=sharing): Spreadsheet with the percentages of how often countries or Australian statistical areas appear in each map, if you're into that sort of thing.
+
 # Australia
 
 Maps all located in Australia, mostly converted from things.
@@ -146,7 +148,6 @@ Explaining GeoGuessr to an American: So, imagine guessing a location that serves
 
 Converted points from querying Overpass Turbo for `cuisine=burger`. Expectedly very USA-heavy.
 
-TODO: Alternate version without chains (just anything with a `brand` property)
-TODO: Alternate version without the USA (maybe I should do that for every map)
+[No USA](https://www.geoguessr.com/maps/674409afa919c46bb1fa67f6) This still has some US territories, because I was too lazy to remove those too, but those weren't the problem in terms of balance so it's fine.
 
-TODO: Compute country stats for all of the worldwide ones, state stats for the Australia ones, etc (might be better to put that on a spreadsheet because it'd be more readable that way)
+TODO: Alternate version without chains (just anything with a `brand` property)
