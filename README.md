@@ -149,5 +149,4 @@ Explaining GeoGuessr to an American: So, imagine guessing a location that serves
 Converted points from querying Overpass Turbo for `cuisine=burger`. Expectedly very USA-heavy.
 
 [No USA](https://www.geoguessr.com/maps/674409afa919c46bb1fa67f6) This still has some US territories, because I was too lazy to remove those too, but those weren't the problem in terms of balance so it's fine.
-
-TODO: Alternate version without chains (just anything with a `brand` property)
+[No chains](https://www.geoguessr.com/maps/674427903437d0ed23ac97eb) Removed everything with brand=\*, operator=\*, and a few things manually; so it's not just Maccas of the World And Some Other Stuff
