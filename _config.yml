@@ -1,0 +1,7 @@
+plugins:
+  - jekyll-feed
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+remote_theme: allejo/jekyll-docs-theme@v1.0.0
