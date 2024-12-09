@@ -1,5 +1,7 @@
 This has all the JSON files for my GeoGuessr maps, or at least all of them that I remember to put here. Much easier to keep track of, I just feel like the locations shouldn't be a secret, enables me to ramble more than GeoGuessr's description field for maps would allow…
 
+I hope that this is a good way to list them all, if not, well, that sucks. I won't be morally opposed to using issues to report locations that are broken or are in maps where they don't belong, but with the reminder that I might not ever get around to dealing with them because I'm the queen of procrastination.
+
 [Distribution stats](https://docs.google.com/spreadsheets/d/1y5rDjgt1mHDUifivFd9mWOJ63U9kNy7SzLOUUtgwVj4/edit?usp=sharing): Spreadsheet with the percentages of how often countries or Australian statistical areas appear in each map, if you're into that sort of thing.
 
 # Australia
@@ -111,25 +113,10 @@ One of the smallest maps I will ever make. Just the trekkers inside/around the W
 
 # Other
 
+## Conversions
+
 ### [MusicBrainz Places](https://www.geoguessr.com/maps/6411b65ecf2a0544ea0d704f)
 Converted from the API, all the venues, recording studios, whatever else is added as a place (and has coordinates) to MusicBrainz. Dunno when I last updated the data, from the file modification date it would seem to be March 2023-ish.
-
-### [Gallipoli Peninsula](https://www.geoguessr.com/maps/6446e2a8a35ad1a02eec171d)
-
-A polygon map containing one region of the peninsula of Gallipoli/Gelibolu, Türkiye. Contains a lot of trekkers of memorials and cemeteries and things, naturally. This sounded like a funny bit at the time the last Anzac Day.
-
-### [Lesbos (Lesvos)](https://www.geoguessr.com/maps/644fe7f7a917719b5a62da9c)
-Polygon map of the island of Lesbos in Greece, where lesbians were invented. GeoGuessr censors the title. Since when is lesbos a swear word or slur or any of that? I'm always calling myself a lesbo. Oh well.
-
-### [Disputed Territories](https://www.geoguessr.com/maps/63e65287a029e9b998de764b)
-
-Polygon map converted from Natural Earth's disputed areas data.
-
-TODO: Version which takes out Israel/Taiwan/Sabah purely for the reason that they end up being selected too often.
-
-### [Minor Islands](https://www.geoguessr.com/maps/6741eec96d68a18b54a71f74)
-
-Polygon map converted from [Natural Earth](https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-minor-islands/)'s Minor Islands data, which includes all the islands that are <= 2 km² in size, which is probably a great hint for people who have an actual sense of scale unlike me and can intuitively figure out how big that is. Unfortunately the borders are not exact enough so some water trekkers show up. Boooo!!!
 
 ### [Tourist Attractions (Wikidata)](https://www.geoguessr.com/maps/674234923437d0ed23a18f13)
 
@@ -152,3 +139,22 @@ Converted points from querying Overpass Turbo for `cuisine=burger`. Expectedly v
 
 [No USA](https://www.geoguessr.com/maps/674409afa919c46bb1fa67f6) This still has some US territories, because I was too lazy to remove those too, but those weren't the problem in terms of balance so it's fine.
 [No chains](https://www.geoguessr.com/maps/674427903437d0ed23ac97eb) Removed everything with brand=\*, operator=\*, and a few things manually; so it's not just Maccas of the World And Some Other Stuff
+
+## Polygon maps
+
+### [Gallipoli Peninsula](https://www.geoguessr.com/maps/6446e2a8a35ad1a02eec171d)
+
+A polygon map containing one region of the peninsula of Gallipoli/Gelibolu, Türkiye. Contains a lot of trekkers of memorials and cemeteries and things, naturally. This sounded like a funny bit at the time the last Anzac Day.
+
+### [Lesbos (Lesvos)](https://www.geoguessr.com/maps/644fe7f7a917719b5a62da9c)
+Polygon map of the island of Lesbos in Greece, where lesbians were invented. GeoGuessr censors the title. Since when is lesbos a swear word or slur or any of that? I'm always calling myself a lesbo. Oh well.
+
+### [Disputed Territories](https://www.geoguessr.com/maps/63e65287a029e9b998de764b)
+
+Polygon map converted from Natural Earth's disputed areas data.
+
+TODO: Version which takes out Israel/Taiwan/Sabah purely for the reason that they end up being selected too often.
+
+### [Minor Islands](https://www.geoguessr.com/maps/6741eec96d68a18b54a71f74)
+
+Polygon map converted from [Natural Earth](https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-minor-islands/)'s Minor Islands data, which includes all the islands that are <= 2 km² in size, which is probably a great hint for people who have an actual sense of scale unlike me and can intuitively figure out how big that is. Unfortunately the borders are not exact enough so some water trekkers show up. Boooo!!!
