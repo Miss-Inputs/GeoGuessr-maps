@@ -17,6 +17,12 @@ Polygon map converted from the Prohibited_Areas layer of [NM_Reserves from Geosc
 ### [Super Smash Bros. Tournament Venues of Australia](https://www.geoguessr.com/maps/6408d151f551fe4625684d39)
 An attempt to get indoor (where possible) and outdoor views of everywhere in Australia that SSB4/SSBU tournaments are held, including unofficial coverage if I have to, starting off with locations imported from start.gg, but I neglected it. Whoops.
 
+### [ABS Bounded Localities](https://www.geoguessr.com/maps/6769ca831058622ffe7c96b9)
+
+10 locations each from every individual polygon in the ABS's Section of State data where SOS_NAME_2021 = "Bounded Locality". In other words, all the random small towns in Australia.
+
+[Polygon map](https://www.geoguessr.com/maps/6769568e801d2d75f4c1365f) that was just plainly converted from the data, if you really want that, but it really shows how much the distribution for polygon maps sucks. It really likes to choose West Island/Bantam/Rottnest Island at least once per game and they become freebies.
+
 ## GTFS conversions
 
 Results of me loading a GTFS feed and getting locations for all the stops.
