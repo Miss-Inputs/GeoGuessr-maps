@@ -83,6 +83,9 @@ Converted from AEC Tally Room data: https://results.aec.gov.au/29581/Website/Dow
 
 TODO: Add the mobile polling places that aren't actually mobile (e.g. where Cocos/Christmas Islanders voted, which I am fairly sure is a fixed location, but isn't in the data normally)
 
+### [The Good Guys](https://www.geoguessr.com/maps/67d65991f53112cd532223aa)
+This came to me in a dream. As soon as I woke up I knew I had to delve into their website to find the list of stores, and convert it into a map. I guess corporations are putting ads inside my subconscious now, but eh. Official coverage in 100 metres, except for the Geraldton store because there isn't any.
+
 ## ACT/Canberra
 
 Maps entirely within my glorious hometown.
