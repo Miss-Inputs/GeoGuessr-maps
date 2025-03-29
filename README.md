@@ -114,12 +114,15 @@ The locations are on the bus stop and not the road in front of it, which with th
 
 Polygonal map where I attempted to make a Canberra map that avoids just being suburban areas. Used the zoning data from ACTmapi to find areas that are not in residential zones, or have something that is not a residential zone surrounding them. If you think that means it's just the middle of town centres and therefore should be trivial, think again…
 
-The file ended up being like 200MB so I can't upload it to this repository. TODO: Post the scriptthat generates this map, once I clean it up a bit (a lot)
+The file ended up being like 200MB so I can't upload it to this repository. TODO: Post the script that generates this map, once I clean it up a bit (a lot)
 
 [Without national parks](https://www.geoguessr.com/maps/65d0dec8db7bd9b93b28270a): A variant that uses the "ACT DIVISIONS" data to exclude anywhere that is not assigned to a division/suburb, which means no endless Namadgi hell, for example.
 
 ### [Australian War Memorial](https://www.geoguessr.com/maps/6447a0f19f7accd3e0a945c0)
 One of the smallest maps I will ever make. Just the trekkers inside/around the War Memorial and the road directly outside it.
+
+### [artsACT Public Art](https://www.geoguessr.com/maps/67e789dad42b1145278d9182)
+All the public art listed on the [artsACT website](https://www.arts.act.gov.au/public-art). Potentially contains unofficial coverage! Also I need to make it consistent whether I'm snapping the pinpoint to the art's POI or the road the street view is on. Whoops. And some older coverage means that sometimes the art isn't even there. Yeah, it didn't work out too well as a map.
 
 # Other
 
