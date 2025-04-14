@@ -19,7 +19,7 @@ An attempt to get indoor (where possible) and outdoor views of everywhere in Aus
 
 ### [ABS Bounded Localities](https://www.geoguessr.com/maps/6769ca831058622ffe7c96b9)
 
-10 locations each from every individual polygon in the ABS's Section of State data where SOS_NAME_2021 = "Bounded Locality". In other words, all the random small towns in Australia.
+20 locations each from every individual polygon in the ABS's Urban Centres and Localities data where SOS_NAME_2021 (Section of State) = "Bounded Locality". In other words, all the random small towns in Australia.
 
 [Polygon map](https://www.geoguessr.com/maps/6769568e801d2d75f4c1365f) that was just plainly converted from the data, if you really want that, but it really shows how much the distribution for polygon maps sucks. It really likes to choose West Island/Bantam/Rottnest Island at least once per game and they become freebies.  
 [Buildings only](https://www.geoguessr.com/maps/67889707634fb14924577f10) This only has panoramas featuring buildings of some sort according to the places metadata, in an attempt to avoid rural roads that the ABS counts as part of the town.
