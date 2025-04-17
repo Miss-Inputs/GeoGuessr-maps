@@ -153,6 +153,10 @@ Converted points from querying Overpass Turbo for `cuisine=burger`. Expectedly v
 [No USA](https://www.geoguessr.com/maps/674409afa919c46bb1fa67f6) This still has some US territories, because I was too lazy to remove those too, but those weren't the problem in terms of balance so it's fine.
 [No chains](https://www.geoguessr.com/maps/674427903437d0ed23ac97eb) Removed everything with brand=\*, operator=\*, and a few things manually; so it's not just Maccas of the World And Some Other Stuff
 
+### [Travel Pics Game Submissions](https://www.geoguessr.com/maps/67eab019c9422fa373d1e895)
+
+Locations that people have submitted to the Travel Pics Game in [Chicago Geographer's Discord server](discord.gg/chicagogeographer). Uses data from [tastyCheese's map](https://tpg.tastedcheese.site/).
+
 ## Polygon maps
 
 ### [Gallipoli Peninsula](https://www.geoguessr.com/maps/6446e2a8a35ad1a02eec171d)
