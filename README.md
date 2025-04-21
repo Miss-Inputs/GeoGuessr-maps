@@ -2,7 +2,7 @@ This has all the JSON files for my GeoGuessr maps, or at least all of them that 
 
 I hope that this is a good way to list them all, if not, well, that sucks. I won't be morally opposed to using issues to report locations that are broken or are in maps where they don't belong, but with the reminder that I might not ever get around to dealing with them because I'm the queen of procrastination.
 
-[Distribution stats](https://docs.google.com/spreadsheets/d/1y5rDjgt1mHDUifivFd9mWOJ63U9kNy7SzLOUUtgwVj4/edit?usp=sharing): Spreadsheet with the percentages of how often countries or Australian statistical areas appear in each map, if you're into that sort of thing.
+[Distribution stats](https://docs.google.com/spreadsheets/d/1y5rDjgt1mHDUifivFd9mWOJ63U9kNy7SzLOUUtgwVj4/edit?usp=sharing): Spreadsheet with the percentages of how often countries or Australian statistical areas appear in each map, if you're into that sort of thing. (Needs updating!)
 
 # Australia
 
