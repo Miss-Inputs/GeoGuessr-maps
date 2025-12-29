@@ -124,6 +124,22 @@ One of the smallest maps I will ever make. Just the trekkers inside/around the W
 ### [artsACT Public Art](https://www.geoguessr.com/maps/67e789dad42b1145278d9182)
 All the public art listed on the [artsACT website](https://www.arts.act.gov.au/public-art). Potentially contains unofficial coverage! Also I need to make it consistent whether I'm snapping the pinpoint to the art's POI or the road the street view is on. Whoops. And some older coverage means that sometimes the art isn't even there. Yeah, it didn't work out too well as a map.
 
+### [A Buildingless Canberra](https://www.geoguessr.com/maps/68a6e2f07d37ea7104022882)
+An attempt to make a map without any buildings, by detecting places in the panorama. Too many false positives though. Canberra only, not rural ACT.
+
+### [A Skewed Canberra](https://www.geoguessr.com/maps/68a8645d0d0016df11f35460)
+Canberra but skewed 90 degrees so you're looking at people's houses etc. Play it NMPZ or it kind of defeats the purpose.
+
+### [ACT Trekker](https://www.geoguessr.com/maps/68a9bec9cd667ee3484c5435)
+Generated map with only trekker coverage in the ACT, which of course is going to be mostly Namadgi.
+
+### [Canberra Trekker](https://www.geoguessr.com/maps/68a9da3162683ba8c326c646)
+Generated map with only trekker coverage in Canberra (no rural ACT), which of course is going to be mostly nature reserves, but a few buildings here and there too.
+
+### [Terminus Canberra](https://www.geoguessr.com/maps/68a82936cd667ee348458e2d)
+Some generated locations in Canberra at the end of coverage where you can only go one way, I just wanted to try generating this kind of map. Still has a few false positives where one generation of coverage ends in the middle of an intersection but there's newer coverage on the other sides of the intersection, oh well.
+
+
 # Other
 
 ## Conversions
@@ -170,7 +186,7 @@ Polygon map of the island of Lesbos in Greece, where lesbians were invented. Geo
 
 Polygon map converted from Natural Earth's disputed areas data.
 
-TODO: Version which takes out Israel/Taiwan/Sabah purely for the reason that they end up being selected too often.
+TODO: Version which takes out Israel/Taiwan/Sabah purely for the reason that they end up being selected too often. Or I guess I could just make a more balanced one
 
 ### [Minor Islands](https://www.geoguessr.com/maps/6741eec96d68a18b54a71f74)
 
